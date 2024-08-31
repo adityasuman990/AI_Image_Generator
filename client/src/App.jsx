@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter, Link, Route, Routes } from 'react-router-dom';
 
 import { logo } from './assets';
-import { CreatePost } from '../src/pages/CreatePost';
+import  CreatePost  from '../src/pages/CreatePost';
 import Home from "../src/pages/Home";
 const App = () => (
   <BrowserRouter>
@@ -23,3 +23,4 @@ const App = () => (
 );
 
 export default App;
+
