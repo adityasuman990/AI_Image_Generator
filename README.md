@@ -3,9 +3,9 @@
 </div> 
 <br/>
 
-## <div align="center">I'm Pushpak 🚀 | CS UNDERGRADUATE</div>  
+## <div align="center">I'm Aprajita 🚀 | CS UNDERGRADUATE</div>  
 
-- 🔭 I’m currently working on Neural Networks  
+- 🔭 I’m currently working on   
   
 
 - 🌱 I’m currently learning Artifical Intelegence and Machine Learning
@@ -15,7 +15,7 @@
       ready  
   
 
-- 🔍 Reach me at: ✉️ pushpak.kumawat08@gmail.com
+- 🔍 Reach me at: ✉️ Aprajita.29@gmail.com
 - 😂 Here is a random joke that'll make you laugh!
 
 ![Jokes Card](https://readme-jokes-8hatq8hxf.vercel.app/api?theme=watermelon&borderColor=%23D6DEEB&bgColor=%23011627)
@@ -41,23 +41,23 @@
 
 
 ## Connect with me  
-<a href="https://github.com/1pushpak1" target="_blank">
+<a href="https://github.com/1Aprajita1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/pushpak-kumawat-b4bb921ba/" target="_blank">
+<a href="https://www.linkedin.com/in/Aprajita-kumawat-b4bb921ba/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://pushpak-is-a.dev/" target="_blank">
+<a href="https://Aprajita-is-a.dev/" target="_blank">
 <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" />  
 </a>
-<a href="https://twitter.com/PushpakKumawat" target="_blank">
+<a href="https://twitter.com/AprajitaKumawat" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/_pushpak_k_/" target="_blank">
+<a href="https://www.instagram.com/_Aprajita_k_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
-<a href="https://www.facebook.com/pushpak.kumawat.73/" target="_blank">
+<a href="https://www.facebook.com/Aprajita.kumawat.73/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
  
@@ -66,10 +66,10 @@
 
 
 ## Github Stats  
-![](https://github-readme-stats.vercel.app/api?username=1pushpak1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=1pushpak1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1pushpak1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![snake gif](https://raw.githubusercontent.com/1pushpak1/1pushpak1/output/github-contribution-grid-snake.svg)
+![](https://github-readme-stats.vercel.app/api?username=1Aprajita1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=1Aprajita1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=1Aprajita1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![snake gif](https://raw.githubusercontent.com/1Aprajita1/1Aprajita1/output/github-contribution-grid-snake.svg)
 
 <br/>    
 
@@ -77,6 +77,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/1pushpak1/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/1Aprajita1/count.svg)
 
 <div align="center"><img src=http://ForTheBadge.com/images/badges/built-with-love.svg />
